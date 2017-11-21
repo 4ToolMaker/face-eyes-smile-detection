@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Using opencv in python for a face, eyes and smile detection.
+Using opencv in python for face, eyes and smile detection.
 
 
 ## Thank you
