@@ -2,7 +2,9 @@
 
 ## Purpose
 
-Using opencv in python for face, eyes and smile detection.
+This is a simple program that uses opencv in python for face, eyes and smile detection.
+
+It's a lot of fun try it out.
 
 
 ## Thank you
